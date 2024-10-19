@@ -1,0 +1,9 @@
+.Pastelería {
+    height: 100vh;
+    border: 10px solid black;
+}
+
+.Pastelería model-viewer {
+    height: 100%;
+    width: 100%;
+}
